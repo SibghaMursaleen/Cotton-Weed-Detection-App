@@ -179,6 +179,17 @@ npm run dev
 
 ---
 
+## 🔗 Related Projects
+
+This project is part of a larger Cotton Weed Detection system:
+
+| Repository | Description |
+|------------|-------------|
+| **[Cotton Weed Detection App](https://github.com/SibghaMursaleen/Cotton-Weed-Detection-App)** *(this repo)* | Flutter mobile app with TFLite on-device inference |
+| **[Cotton Weed Detection Website](https://github.com/SibghaMursaleen/Cotton-Weed-Detection-Website)** | Web version of the weed detection system |
+
+---
+
 ## 📄 License
 
 This project is released under the [MIT License](LICENSE) — free to use, modify, and distribute.
