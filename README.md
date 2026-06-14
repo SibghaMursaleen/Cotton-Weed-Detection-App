@@ -172,8 +172,8 @@ npm run dev
 
 | Name | Role |
 |------|------|
-| **Sibgha Mursaleen** | Project Developer |
-| **Muhammad Usman Sarwar** | Project Developer |
+| **[Sibgha Mursaleen](https://github.com/SibghaMursaleen)** | Project Developer |
+| **[Muhammad Usman Sarwar](https://github.com/Usmansarwar143)** | Project Developer |
 
 **Institution:** Sukkur IBA University — Department of Computer Systems Engineering
 
